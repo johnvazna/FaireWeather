@@ -13,9 +13,12 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/core" />
             <option value="$PROJECT_DIR$/feature" />
+            <option value="$PROJECT_DIR$/feature-library" />
+            <option value="$PROJECT_DIR$/feature-library/exception" />
             <option value="$PROJECT_DIR$/feature/location" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/library/di" />
+            <option value="$PROJECT_DIR$/library/network" />
           </set>
         </option>
       </GradleProjectSettings>
