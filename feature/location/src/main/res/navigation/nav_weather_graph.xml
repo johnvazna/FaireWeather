@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_weather_graph"
+    app:startDestination="@id/weatherLocationFragment">
+
+    <fragment
+        android:id="@+id/weatherLocationFragment"
+        android:name="com.faire.weather.location.view.WeatherLocationFragment"
+        android:label="@string/nav_weather_location_title"
+        tools:layout="@layout/weather_location_fragment" />
+
+</navigation>

@@ -1,4 +1,4 @@
-package com.faire.feature
+package com.faire.weather.location
 
 import org.junit.Test
 
