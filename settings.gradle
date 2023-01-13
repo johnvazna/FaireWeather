@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "FaireWeather"
 include ':app'
 include ':core'
+include ':feature'
+include ':library:di'
