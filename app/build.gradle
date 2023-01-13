@@ -35,6 +35,7 @@ android {
 dependencies {
     implementation project(":core")
     implementation project(":library:di")
+    implementation project(":library:network")
     implementation project(":feature:location")
 
     implementation 'androidx.navigation:navigation-fragment-ktx:2.5.3'
